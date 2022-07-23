@@ -1,0 +1,8 @@
+resource_group_name         = "rg-blockchain"
+resource_group_location     = "Australia East"
+virtual_network_name        = "vnet-blockchain"
+subnet_name                 = "subnet-blockchain"
+public_ip_name              = "publicip-blockchain"
+network_security_group_name = "nsgprod-blockchain"
+network_interface_name      = "nic-blockchain"
+linux_virtual_machine_name  = "linux-vm-blockchain"
