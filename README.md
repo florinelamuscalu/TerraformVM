@@ -1,4 +1,4 @@
-# TerrafromVM
+# TerraformVM
 
 ## VM linux Azure
 
